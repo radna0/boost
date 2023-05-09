@@ -1,6 +1,6 @@
 {
-  "homepage": "http://radna0.github.io/boost3.0",
-  "name": "boost3.0",
+  "homepage": "http://radna0.github.io/boost",
+  "name": "boost",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
