@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/boost/static/css/main.7fa64b29.css",
+    "main.js": "/boost/static/js/main.8190e24b.js",
+    "static/media/demo_phone.png": "/boost/static/media/demo_phone.5df5a2701fe37b46ce90.png",
+    "static/media/demo_full.png": "/boost/static/media/demo_full.e9b38f0b16a0973db681.png",
+    "index.html": "/boost/index.html",
+    "static/media/getFetch.cjs": "/boost/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.7fa64b29.css.map": "/boost/static/css/main.7fa64b29.css.map",
+    "main.8190e24b.js.map": "/boost/static/js/main.8190e24b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa64b29.css",
+    "static/js/main.8190e24b.js"
+  ]
+}
