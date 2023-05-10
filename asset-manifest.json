@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/boost/static/css/main.7fa64b29.css",
-    "main.js": "/boost/static/js/main.8190e24b.js",
+    "main.js": "/boost/static/js/main.6af6e3ce.js",
+    "static/media/shape.png": "/boost/static/media/shape.2453bbfff42218920c34.png",
+    "static/media/boost_profile.png": "/boost/static/media/boost_profile.3af8fc5252ddee927f36.png",
     "static/media/demo_phone.png": "/boost/static/media/demo_phone.5df5a2701fe37b46ce90.png",
+    "static/media/rank.png": "/boost/static/media/rank.c8647510ce51b8550083.png",
     "static/media/demo_full.png": "/boost/static/media/demo_full.e9b38f0b16a0973db681.png",
+    "static/media/Form_logo.png": "/boost/static/media/Form_logo.b5250b8a8053aec57caa.png",
+    "static/media/demo_small.png": "/boost/static/media/demo_small.71b268f231f108153f60.png",
     "index.html": "/boost/index.html",
     "static/media/getFetch.cjs": "/boost/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.7fa64b29.css.map": "/boost/static/css/main.7fa64b29.css.map",
-    "main.8190e24b.js.map": "/boost/static/js/main.8190e24b.js.map"
+    "main.6af6e3ce.js.map": "/boost/static/js/main.6af6e3ce.js.map"
   },
   "entrypoints": [
     "static/css/main.7fa64b29.css",
-    "static/js/main.8190e24b.js"
+    "static/js/main.6af6e3ce.js"
   ]
 }
