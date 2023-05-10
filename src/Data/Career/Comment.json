@@ -12,7 +12,7 @@
        "posSize":"medium",
        "pos": "Backend Developer",
    
-       "image": "/Assets/images/Comments/ava_Hieu.jpg"
+       "image": ""
     },
     {
         "id": 2,
@@ -27,7 +27,7 @@
         "posSize":"medium",
         "pos": "Frontend Developer",
     
-        "image": "/Assets/images/Comments/ava_Thanh.jpg"
+        "image": ""
      },
      {
         "id": 3,
@@ -42,6 +42,6 @@
         "posSize":"medium",
         "pos": "Blockchain Developer",
     
-        "image": "/Assets/images/Comments/ava_Hoang.jpg"
+        "image": ""
      }
 ]

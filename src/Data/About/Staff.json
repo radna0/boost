@@ -17,7 +17,7 @@
      "pChild": "Front-end Developer",
      
      
-     "image": "/Assets/Images/Members/ava_Thanh.jpg"
+     "image": ""
     },
     {
        "id": 2,
@@ -33,7 +33,7 @@
        "pChild": "Back-end Developer",
        
        
-       "image": "/Assets/Images/Members/ava_Hieu.jpg"
+       "image": ""
       },{
        "id": 3,
        "page": "about",
@@ -48,7 +48,7 @@
        "pChild": "Blockchain Developer",
        
        
-       "image": "/Assets/Images/Members/ava_Hoang.jpg"
+       "image": ""
       },{
        "id": 4,
        "page": "about",
@@ -63,7 +63,7 @@
        "pChild": "Product Manager",
        
        
-       "image": "/Assets/Images/Members/ava_Lam.jpg"
+       "image": ""
       },{
        "id": 5,
        "page": "about",
@@ -78,7 +78,7 @@
        "pChild": "UI/UX Designer",
        
        
-       "image": "/Assets/Images/Members/ava_Vuong.jpg"
+       "image": ""
       }
    ]
    

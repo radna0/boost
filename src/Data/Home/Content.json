@@ -1,4 +1,3 @@
-
 [
     {
     "id": 1,
@@ -22,7 +21,7 @@
     "listId": "none",
     "listChild":"none",
     "listSize": "none",
-    "image": "/Assets/Images/demo_small.png"
+    "image": "../../Assets/Images/demo_small.png"
 
     }
 ]

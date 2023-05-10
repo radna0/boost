@@ -33,7 +33,7 @@
     ],
     "listSize": "medium",
     "icon": "fa-solid fa-circle-check",
-    "image": "/Assets/Images/Preview/boost_task.png"
+    "image": ""
 
     },
     {
@@ -68,7 +68,7 @@
     ],
     "listSize": "medium",
     "icon": "fa-solid fa-circle-check",
-    "image": "/Assets/Images/Preview/boost_chat.png"
+    "image": ""
 }, 
 {
     "id": 3,
@@ -102,6 +102,6 @@
 ],
 "listSize": "medium",
 "icon": "fa-solid fa-circle-check",
-"image": "/Assets/Images/Preview/boost_profile.png"
+"image": ""
 }
 ]
