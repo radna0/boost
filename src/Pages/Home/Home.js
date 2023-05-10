@@ -11,9 +11,9 @@ import Btn from '../../Components/Button/Btn'
 import intro_IMG from '../../Assets/Images/demo_phone.png'
 
 
+import contentIMG from "../../Assets/Images/demo_small.png"
 
-
-
+Contents[0].image = contentIMG
 
 function Home() {
 

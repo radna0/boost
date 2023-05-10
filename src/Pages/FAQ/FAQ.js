@@ -7,6 +7,8 @@ import H1 from '../../Components/Header/H1'
 import Para from '../../Components/Para/Para'
 import Input from '../../Components/Input/Input'
 import Btn from '../../Components/Button/Btn'
+
+import Logo from "../../Assets/Images/Form/Form_logo.png"
 function FAQ() {
 
   const { t } = useTranslation();
@@ -35,7 +37,7 @@ function FAQ() {
     
      <div className="FAQ_form_section">
       <div className="FAQ_form_display">
-        <IMG image="/Assets/Images/Form/Form_logo.png" />
+        <IMG image={Logo} />
       </div>
       
         {checkSubmit ? 

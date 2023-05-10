@@ -11,6 +11,10 @@ import Staffs from '../../Data/About/Staff.json';
 
 import IMG from '../../Assets/Images/demo_full.png'
 
+import rank from "../../Assets/Images/Goals/rank.png"
+import shape from "../../Assets/Images/Goals/shape.png"
+Goals[0].image = rank
+Goals[1].image = shape
 function About() {
 
     return (

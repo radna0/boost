@@ -10,7 +10,13 @@ import Offers2 from '../../Data/Feature/Offer2.json'
 
 import IMG from '../../Assets/Images/demo_phone.png'
 
+import task from "../../Assets/Images/Preview/boost_profile.png"
+import chat from "../../Assets/Images/Preview/boost_profile.png"
+import profile from "../../Assets/Images/Preview/boost_profile.png"
 
+Previews[0].image = task
+Previews[1].image = chat
+Previews[2].image = profile
 
 
 function Feature() {

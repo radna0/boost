@@ -9,7 +9,7 @@ function  IMG ({
 }) {
 
 
-    if (image === "none" || image === undefined) {
+    if (image === "none" || image === undefined || image === "") {
         return null;
         
     }else{

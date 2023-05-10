@@ -1,8 +1,7 @@
 
 import { Link } from 'react-router-dom';
 
-
-
+import banner from  "../../../../Assets/Icons/Logo/logo.png"
 
 
 
@@ -18,7 +17,7 @@ function Banner() {
  
         <div className="nav_logo">
             <Link to="/boost" >
-                <img src="Assets/Icons/Logo/logo.png" alt="" />
+                <img src={banner} alt="" />
             </Link>
         </div>
     );
